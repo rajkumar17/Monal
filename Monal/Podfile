@@ -57,7 +57,7 @@ target 'monalxmpp' do
   pod 'SignalProtocolObjC'
   pod 'SignalProtocolC'
 
-  pod 'OpenSSL-Universal', '1.0.2.20'
+#  pod 'OpenSSL-Universal', '1.0.2.20'
 end
 
 # see https://stackoverflow.com/a/36547646/3528174
