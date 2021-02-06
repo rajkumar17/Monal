@@ -2,6 +2,7 @@
 
 # Abort on Error
 set -e
+cd Monal
 
 ls -l ~/Library/MobileDevice/Provisioning\ Profiles/
 
